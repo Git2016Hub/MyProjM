@@ -1,5 +1,11 @@
+﻿添加
+[credential]        
+    helper = store
+输入一次用户名密码，下次不用输入即可push，会生成.git-credentials文件，保存用户名密码。
 删除
 [credential]        
     helper = store
+仍然可以push
 
-使用ssh试试
+再删除.git-credentials文件，试试
+
