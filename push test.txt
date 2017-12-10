@@ -7,5 +7,8 @@
     helper = store
 仍然可以push
 
-再删除.git-credentials文件，试试
+再删除.git-credentials文件，试试也可以
+
+https://tortoisegit.org/docs/tortoisegit/tgit-dug-settings.html
+帮助文档
 
